@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://s3.us-west-2.amazonaws.com/secure.notion-static.com/35423c9c-ce71-45c4-b9e3-49997b56ffc2/images.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200816T171953Z&X-Amz-Expires=86400&X-Amz-Signature=f9fcf7db4bc89fc796754bf63e360baf0ce57ce5cb9afccd3f9ca24a4cba0e4a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22images.zip%22
