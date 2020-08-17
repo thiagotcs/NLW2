@@ -111,7 +111,7 @@ Back-end: <a href="https://nodejs.org/en/"> NodeJS </a>
  * Markdown: <a href="https://www.emojicopy.com/">Emojicopy</a> | <a href="https://gist.github.com/rxaviers/7360908">Markdown Emoji</a>
  * Badges: <a href="https://shields.io/">Shields</a>
 
-## 🚀 <a href="https://thiagotcs.github.io/NLW2/src/views/index.html" align = "center" >Site publicado</a>
+## <p align = "center"> 🚀 <a href="https://thiagotcs.github.io/NLW2/src/views/index.html">Site publicado</a></p>
 
 
 ## 📝 Licença
