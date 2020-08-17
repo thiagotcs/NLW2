@@ -1,6 +1,7 @@
 ![](https://github.com/thiagotcs/NLW2/blob/master/.github/project-proffy.PNG)
 
 <p align = "center">
+    <img src = "https://img.shields.io/badge/Site-Proffy-red" alt= "Site">
     <img src = "https://img.shields.io/badge/License-MIT-blue.svg" alt = "Licença MIT">
     <img src = "https://img.shields.io/badge/Layout%20preview-Figma-brightgreen" alt = "Figma-brightgreen">
     <img src = "https://img.shields.io/badge/Made%20by-Thiago%20Carvalho-orange" alt = "Thiago Carvalho">
@@ -109,6 +110,8 @@ Back-end: <a href="https://nodejs.org/en/"> NodeJS </a>
  * Layout: <a href="https://www.figma.com/">Figma<a/> | <a href="https://www.figma.com/file/DjP4ooBdTZp7Xaroi8ayL3/Proffy-Mobile-(Copy)?node-id=0%3A1">Proffy<a/>
  * Markdown: <a href="https://www.emojicopy.com/">Emojicopy</a> | <a href="https://gist.github.com/rxaviers/7360908">Markdown Emoji</a>
  * Badges: <a href="https://shields.io/">Shields</a>
+
+## 🚀 <a href="https://thiagotcs.github.io/NLW2/src/views/index.html" align = "center" >Site publicado</a>
 
 
 ## 📝 Licença
